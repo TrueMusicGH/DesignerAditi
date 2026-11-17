@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <!-- White version for dark backgrounds per guidelines -->
+  <g fill="#FFFFFF">
+    <path d="M175 2 C 205 22, 228 32, 245 48 L 235 58 C 215 42, 195 30, 172 18 Z"/>
+    <path d="M415 2 C 385 22, 362 32, 345 48 L 355 58 C 375 42, 395 30, 418 18 Z" transform="translate(-22,0)"/>
+  </g>
+  <g fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round">
+    <ellipse cx="238" cy="92" rx="42" ry="48"/>
+    <ellipse cx="332" cy="92" rx="42" ry="48"/>
+  </g>
+  <g fill="#FFFFFF">
+    <circle cx="252" cy="102" r="20"/>
+    <circle cx="345" cy="102" r="20"/>
+  </g>
+  <path d="M283 132 L313 132 L298 165 Z" fill="#FFFFFF"/>
+  <text x="18" y="185" font-family="'Brush Script MT','Segoe Script',cursive" font-size="112" font-style="italic" font-weight="700" fill="#FFFFFF" letter-spacing="-2">Aditi</text>
+</svg>

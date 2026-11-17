@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 120 120">
+  <!-- Owl only - for favicon 16x16/32x32, footer small, packaging -->
+  <g fill="#C21F64">
+    <path d="M8 2 C 28 16, 44 24, 54 34 L 48 40 C 34 30, 18 22, 5 14 Z"/>
+    <path d="M112 2 C 92 16, 76 24, 66 34 L 72 40 C 86 30, 102 22, 115 14 Z"/>
+  </g>
+  <g fill="#fff" stroke="#C21F64" stroke-width="7">
+    <ellipse cx="42" cy="62" rx="26" ry="30"/>
+    <ellipse cx="78" cy="62" rx="26" ry="30"/>
+  </g>
+  <circle cx="48" cy="67" r="12" fill="#2F2F2F"/>
+  <circle cx="82" cy="67" r="12" fill="#2F2F2F"/>
+  <path d="M53 88 L67 88 L60 102 Z" fill="#C21F64"/>
+</svg>
